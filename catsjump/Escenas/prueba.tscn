@@ -102,7 +102,7 @@ position = Vector2(-472.228, 97.5779)
 
 [node name="CaballitoAmarillo" type="Sprite2D" parent="ObjetosColisiones"]
 z_index = -9
-position = Vector2(-6874.78, -74.6878)
+position = Vector2(-6891.75, -71.8594)
 texture = ExtResource("4_u7jkt")
 flip_h = true
 
