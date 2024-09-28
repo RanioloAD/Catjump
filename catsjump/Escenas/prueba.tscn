@@ -28,7 +28,7 @@ position = Vector2(-8.88159, 6.08768)
 position = Vector2(7403.52, 521.773)
 
 [node name="StaticBody2D2" parent="ObjetosColisiones" instance=ExtResource("2_cxgrj")]
-position = Vector2(-7123.08, 95.2017)
+position = Vector2(-7121.08, 93.2017)
 
 [node name="StaticBody2D3" parent="ObjetosColisiones" instance=ExtResource("2_cxgrj")]
 position = Vector2(-6769.49, 102.151)
